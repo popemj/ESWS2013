@@ -1,4 +1,11 @@
-ESWS2013
-========
-If you're reading this, then you probably attended by Effective Spring Workshop at UberConf 2013 and are expecting to find the code that was created during that session.
-The code is not here now, but it will be soon. Check back in a day or two.
+Effective Spring Workshop Samples
+=================================
+This repository contains code from the Effective Spring Workshop that I presented at UberConf 2013.
+
+There are three projects in this repository:
+
+ - clean : A clean(ish) set of samples written outside of the workshop.
+ - uberconf1 : The workshop code from part 1, as it was written at UberConf 2013; dirty, rough, and bugs included.
+ - uberconf2 : The workshop code from part 2, as it was written at UberConf 2013; dirty, rough, and bugs included.
+
+ Enjoy
